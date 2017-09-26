@@ -1,0 +1,47 @@
+
+wifi.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wifi1
+  rotate: false
+  xy: 1, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+wifi2
+  rotate: false
+  xy: 75, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+wifi3
+  rotate: false
+  xy: 149, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+wifi4
+  rotate: false
+  xy: 223, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+wifi5
+  rotate: false
+  xy: 297, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+wifi6
+  rotate: false
+  xy: 371, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
